@@ -1,2 +1,2 @@
-# python_calc
-calculadora feita em python.
+# calculadora
+calculadora feita em python, utilizando tkinter GUI
